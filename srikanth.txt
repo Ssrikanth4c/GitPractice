@@ -1,8 +1,5 @@
 hello
 change now
 staged now
-staged now
-staged now
-staged now
-staged now
-staged now
+added after staged
+changed in file now
