@@ -1,5 +1,13 @@
 hello
 change now
 staged now
+<<<<<<< HEAD
 added after staged
 changed in file now
+=======
+staged now
+staged now
+staged now
+staged now
+staged now
+>>>>>>> parent of 3622a3e... 'staged1'
